@@ -8,7 +8,7 @@ HTML Webpage Challenge
 - Create your base folder structure (css,images, js)
 
 ## Live Link
-- https://raasikhbooley.github.io/challenge_6/form_validation_challenge.html
+- https://raasikhbooley.github.io/challenge_8/
 
 ## Prevalent Technologies Used
 
